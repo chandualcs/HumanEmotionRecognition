@@ -29,4 +29,4 @@ are shown below”
 
 Evaluation:
 The model's performance was evaluated based on the validation set, achieving an accuracy of  0.4610 and a loss of 2.1360
-![](images/revenue_chart.png)
+![Loss graphs]([images/revenue_chart.png](https://github.com/chandualcs/HumanEmotionRecognition/blob/main/images/loss_graphs.png))
