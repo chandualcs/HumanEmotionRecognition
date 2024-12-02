@@ -29,5 +29,18 @@ are shown below”
 
 # Evaluation:
 The model's performance was evaluated based on the validation set, achieving an accuracy of  0.4610 and a loss of 2.1360
-![Loos_graphs](https://github.com/chandualcs/HumanEmotionRecognition/blob/main/images/loss_graphs.png)
+![Loos graphs](https://github.com/chandualcs/HumanEmotionRecognition/blob/main/images/loss_graphs.png)
+
+# Confusion matrix:
+Confusion matrix allows to visualize the over all performance of the model.
+![Confusion matrix](https://github.com/chandualcs/HumanEmotionRecognition/blob/main/images/confusion_matrix.png)
+
+# Suggestions for Improvement:
+1.	Hyperparameter Tuning: Experiment with different learning rates, batch sizes, or optimizers to improve performance.
+2.	Model Complexity: Consider increasing model complexity or trying different architectures for better feature representation.
+3.	Data Augmentation: Augment the dataset to increase diversity and robustness.
+4.	Regularization: Implement techniques like dropout, batch normalization, or L2 regularization to prevent overfitting.
+# Conclusion:
+The model shows some promising performance in recognizing facial expressions. However, further improvements are possible by considering the suggestions above.
+
 
