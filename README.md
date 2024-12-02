@@ -1,6 +1,7 @@
 # HumanEmotionRecognition
 
-# Dataset Source: https://www.kaggle.com/datasets/ngothienphu/affectnet/
+# Dataset Source:
+https://www.kaggle.com/datasets/ngothienphu/affectnet/
 
 # Model Overview:
 The model is a Convolutional Neural Network (CNN) based on the ResNet architecture, designed for a multi-class classification task using the AffectNet dataset. The model is intended to classify images into one of seven classes based on facial expressions.
